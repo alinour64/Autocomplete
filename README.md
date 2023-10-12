@@ -20,7 +20,7 @@ Traverse the BST to find all entries that match the given prefix. Sort them by w
 
 ### Shell scripts
 
-- runit.sh: compile and run he program
+- runit.sh: compile and run the program
 - create-output.sh: compile, run, check for clang-tidy, clang-format and valgrind warnings
 - check-code-coverage: examine if any lines not executed during tests
 
